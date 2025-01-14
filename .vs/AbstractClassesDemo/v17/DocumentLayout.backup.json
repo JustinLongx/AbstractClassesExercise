@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\AbstractClassesDemo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6755B2-DE95-4366-99DE-9665E62E11D1}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\justi\\onedrive\\desktop\\2024 c#\\truecoders 2024\\repo 2024\\abstractclassesdemo\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6755B2-DE95-4366-99DE-9665E62E11D1}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6755B2-DE95-4366-99DE-9665E62E11D1}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\justi\\onedrive\\desktop\\2024 c#\\truecoders 2024\\repo 2024\\abstractclassesdemo\\consoleui\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6755B2-DE95-4366-99DE-9665E62E11D1}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6755B2-DE95-4366-99DE-9665E62E11D1}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\justi\\onedrive\\desktop\\2024 c#\\truecoders 2024\\repo 2024\\abstractclassesdemo\\consoleui\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6755B2-DE95-4366-99DE-9665E62E11D1}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6755B2-DE95-4366-99DE-9665E62E11D1}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\justi\\onedrive\\desktop\\2024 c#\\truecoders 2024\\repo 2024\\abstractclassesdemo\\consoleui\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6755B2-DE95-4366-99DE-9665E62E11D1}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Motorcycle.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\AbstractClassesDemo\\ConsoleUI\\Motorcycle.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Motorcycle.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\AbstractClassesDemo\\ConsoleUI\\Motorcycle.cs",
+              "RelativeToolTip": "ConsoleUI\\Motorcycle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:43:20.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\AbstractClassesDemo\\ConsoleUI\\Car.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Car.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\AbstractClassesDemo\\ConsoleUI\\Car.cs",
+              "RelativeToolTip": "ConsoleUI\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:42:30.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\AbstractClassesDemo\\ConsoleUI\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\AbstractClassesDemo\\ConsoleUI\\Vehicle.cs",
+              "RelativeToolTip": "ConsoleUI\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:29:58.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\AbstractClassesDemo\\ConsoleUI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\AbstractClassesDemo\\ConsoleUI\\Program.cs*",
+              "RelativeToolTip": "ConsoleUI\\Program.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:35:05.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
